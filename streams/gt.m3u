@@ -13,6 +13,8 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-id="Canal27.gt@SD",Canal 27 (1080p)
 https://live.canal27.tv:3633/live/canal27live.m3u8
+#EXTINF:-1 tvg-id="Canal3.gt@SD",Canal 3 (1080p)
+https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_4276517416086298479_hls.m3u8
 #EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD",Canal 30 TV Bethel (720p) [Not 24/7]
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.gt@SD",Canal 32 Telemax (720p) [Not 24/7]
