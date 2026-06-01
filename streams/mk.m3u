@@ -29,8 +29,8 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 https://live.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-id="MRT1.mk@SD",MRT 1 (480p)
 https://vod-c57.interspace.com/channel_abr/42/receiver/42_p3/chunks.m3u8?nimblesessionid=104954702&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgMToxNTo0NCBQTSZoYXNoX3ZhbHVlPWR3dFpQbEdOSjhmemFjOWNHeTB3UHc9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9NmExZDg2MDA0ODJjNg==
-#EXTINF:-1 tvg-id="MRT2.mk@SD",MRT 2 [Geo-blocked]
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1 tvg-id="MRT2.mk@SD",MRT 2 (480p)
+https://vod-c57.interspace.com/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjYgMToxNjo1MCBQTSZoYXNoX3ZhbHVlPVlWZlJiQ2VmT29QTERya3hrUTYxQlE9PSZ2YWxpZG1pbnV0ZXM9MzAmaWQ9NmExZDg2NDI4NGM0Zg==
 #EXTINF:-1 tvg-id="MRTSobraniskikanal.mk@SD",MRT Sobraniski kanal [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 #EXTINF:-1 tvg-id="MTM.mk@SD",MTM 1 [Geo-blocked]
